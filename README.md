@@ -12,10 +12,13 @@ A Node.js RESTful API for user authentication and authorization using **JWT bear
 * MVC Structure (Model, Controller, Routes)
 
 ---
+
 ## Deployed URL
 
-https://user-authentication-and-authorization-jev5.onrender.com
+https://user-authentication-and-authorization-wrnq.onrender.com
+
 ---
+
 ## 💠 Tech Stack
 
 * Node.js
@@ -182,7 +185,7 @@ Authorization: Bearer your-jwt-token
 
 You can test all the API endpoints using the Postman documentation below:
 
-🔗 https://documenter.getpostman.com/view/43648661/2sB3B7PDzA
+🔗 https://documenter.getpostman.com/view/35311398/2sB3BALCFq
 
 
 ---
